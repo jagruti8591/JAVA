@@ -1,0 +1,8 @@
+GCP Project
+qwiklabs-gcp-00-637973d16e87
+Username
+student-02-f68db6f4de6b@qwiklabs.net
+password
+Log7NCXxmd5P
+Hostname
+api-qwiklabs-gcp-00-637973d16e87.apigee-apijam.dev
